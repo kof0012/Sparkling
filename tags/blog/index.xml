@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Sparkling Trophy</title>
-    <link>http://kof0012.github.io/tags/blog/</link>
+    <link>https://kof0012.github.io/tags/blog/</link>
     <description>Recent content in blog on Sparkling Trophy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (WhatsApp:Bino Kochumol Varghese)</managingEditor>
     <webMaster>sample@gmail.com (WhatsApp:Bino Kochumol Varghese)</webMaster>
     <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://kof0012.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kof0012.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Hugo Blog</title>
-      <link>http://kof0012.github.io/posts/build-hugo-blog/</link>
+      <link>https://kof0012.github.io/posts/build-hugo-blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate><author>sample@gmail.com (WhatsApp:Bino Kochumol Varghese)</author>
-      <guid>http://kof0012.github.io/posts/build-hugo-blog/</guid>
+      <guid>https://kof0012.github.io/posts/build-hugo-blog/</guid>
       <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
 First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
     </item>
