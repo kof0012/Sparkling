@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kof0012.github.io/posts/</loc>
-    <lastmod>2023-11-03T22:29:01+08:00</lastmod>
+    <loc>https://kof0012.github.io/crystals/cc/</loc>
+    <lastmod>2023-11-05T18:25:27+08:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/crystals/</loc>
+    <lastmod>2023-11-05T18:25:27+08:00</lastmod>
   </url><url>
     <loc>https://kof0012.github.io/</loc>
+    <lastmod>2023-11-05T18:25:27+08:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/trophies/o/</loc>
+    <lastmod>2023-11-05T16:37:32+08:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/trophies/</loc>
+    <lastmod>2023-11-05T16:37:32+08:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/medals/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/medals/o/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/posts/</loc>
     <lastmod>2023-11-03T22:29:01+08:00</lastmod>
   </url><url>
     <loc>https://kof0012.github.io/posts/hongkong/</loc>
@@ -56,7 +74,13 @@
     <loc>https://kof0012.github.io/notes/2020/change/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kof0012.github.io/trophies/change/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kof0012.github.io/notes/2020/change2/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kof0012.github.io/trophies/change2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kof0012.github.io/notes/2020/change3/</loc>
